@@ -296,16 +296,10 @@ import {
   
   export const socials = [
     {
-      id: "0",
-      title: "Discord",
-      iconUrl: discordBlack,
-      url: "#",
-    },
-    {
       id: "1",
       title: "Twitter",
       iconUrl: twitter,
-      url: "#",
+      url: "https://x.com/Senanayaka38949",
     },
     {
       id: "2",
@@ -323,7 +317,7 @@ import {
       id: "4",
       title: "Facebook",
       iconUrl: facebook,
-      url: "#",
+      url: "https://web.facebook.com/?_rdc=1&_rdr",
     },
   ];
   
